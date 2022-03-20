@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imaditya010
+- 👋 Hi, I’m Aditya Singh
 - 👀 I’m interested in Web development.
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on any opportunity I get to learn from.
